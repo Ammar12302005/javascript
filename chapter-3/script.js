@@ -10,7 +10,7 @@ alert ("you have visit this site 1 time")
 
 // Q3
 var BirthYear = "2005"
-document.write ("Q  my birth year is" + BirthYear + "times.<br>")
+document.write (" my birth year is" + BirthYear + "times.<br>")
 
 
 
